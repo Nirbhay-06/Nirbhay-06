@@ -1,3 +1,19 @@
+<h1 align="center">Hi, I'm Nirbhay Patel 👋</h1>
+
+```cpp
+class Developer {
+public:
+    string name = "Nirbhay Patel";
+    string role = "B.Tech CSE Student";
+    vector<string> interests = {
+        "Software Development",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Open Source"
+    };
+    string currentFocus = "Java | C++ | DSA | System Design";
+};
+
 # 💫 About Me:
 ⚡ Fun fact🔭 **I’m currently working on** Data Structures & Algorithms, Java projects, C++ problem solving, and Cybersecurity labs.<br><br>👯 **I’m looking to collaborate on** open-source projects, AI-powered applications, and full-stack web development.<br><br>🤝 **I’m looking for help with** competitive programming, system design, and cloud deployment.<br><br>🌱 **I’m currently learning** Java, C++, System Design, AI integration, and Cybersecurity.<br><br>💬 **Ask me about** Java, C++, DSA, Git, GitHub, SQL, and Problem Solving.<br><br>⚡ **Fun fact:** I enjoy turning coffee into code and bugs into lessons.
 
